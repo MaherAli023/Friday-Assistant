@@ -31,7 +31,6 @@
 - Tell jokes for entertainment.
 - Fetch and read the latest news headlines.
 - Display weather reports for specified locations.
-- Interact with the Bard chatbot for conversation.
 - Create and manage a to-do list.
 - Secure login system.
 
