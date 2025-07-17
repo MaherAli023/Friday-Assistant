@@ -1,0 +1,41 @@
+# Ignore Python cache and compiled files
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore config or API key files
+.env
+config.json
+
+# Ignore memory or user-specific files
+memory.json
+user_data.json
+
+# Ignore OS/system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log or output files
+*.log
+*.out
+*.bak
+
+# Ignore audio recordings or test data
+*.wav
+*.mp3
+recordings/
+audio_cache/
+
+# VS Code settings
+.vscode/
+
+# Ignore any temporary folders
+temp/
+tmp/
